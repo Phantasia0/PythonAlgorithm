@@ -1,7 +1,7 @@
 import sys
 
 sys.stdin = open("input.txt", "rt")
-N, K = map(int, input().split())
+n, K = map(int, input().split())
 a = list(map(int, input().split()))
 res = set()
 for i in range(n):
