@@ -19,7 +19,6 @@ arr = []
 
 
 def DFS(L, sums, res, tsum):
-    global check
     if sums + total - tsum < t:
         return
 
