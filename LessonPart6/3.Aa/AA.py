@@ -28,3 +28,6 @@ for value in range(1, s):
         cnt += 1
 
 print(cnt)
+
+
+
